@@ -1,3 +1,3 @@
 # safetravel-JavaScript
 [Live Demo](http://safetravelkashmir.in/)
-![Untitled video - Made with Clipchamp](https://user-images.githubusercontent.com/88535886/195765749-f66a9358-a5bb-436b-87ae-53a3cb333b22.gif)
+https://user-images.githubusercontent.com/88535886/195767382-68638213-d783-46b7-aa3b-a9bc58ca75c9.mp4
