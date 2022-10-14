@@ -1,2 +1,2 @@
-# safetravel-hcj
-[demo](http://safetravelkashmir.in/)
+# safetravel-JavaScript
+[Live Demo](http://safetravelkashmir.in/)
